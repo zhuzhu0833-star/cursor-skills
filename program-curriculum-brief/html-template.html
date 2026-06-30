@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- {{PAGE_TITLE}} e.g. 浸会大学 BBA（JS2120）课程设置 -->
+    <title>{{PAGE_TITLE}}</title>
+    <style>
+        @page { size: A4 portrait; margin: 0; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+            font-size: 8.5pt;
+            line-height: 1.35;
+            color: #222;
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto;
+            padding: 10mm 11mm;
+            background: #fff;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #1a365d;
+            padding-bottom: 6px;
+            margin-bottom: 8px;
+        }
+        .header h1 {
+            font-size: 14pt;
+            color: #1a365d;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+        .header .sub {
+            font-size: 9pt;
+            color: #555;
+            margin-top: 3px;
+        }
+        .meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px 14px;
+            justify-content: center;
+            font-size: 8pt;
+            color: #444;
+            margin-top: 5px;
+        }
+        .meta span { white-space: nowrap; }
+        .meta strong { color: #1a365d; }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            margin-bottom: 7px;
+        }
+        .grid-3 {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 6px;
+            margin-bottom: 7px;
+        }
+        .section { margin-bottom: 7px; page-break-inside: avoid; }
+        .section-title {
+            font-size: 9.5pt;
+            font-weight: 700;
+            color: #1a365d;
+            border-bottom: 1px solid #cbd5e0;
+            padding-bottom: 2px;
+            margin-bottom: 4px;
+        }
+        .box {
+            background: #f7fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            padding: 5px 7px;
+        }
+        .box h3 {
+            font-size: 8.5pt;
+            color: #2c5282;
+            margin-bottom: 3px;
+        }
+        .box p, .box li { font-size: 8pt; color: #333; }
+        ul { padding-left: 14px; }
+        li { margin-bottom: 1px; }
+        .credits-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8pt;
+            margin-bottom: 4px;
+        }
+        .credits-table th, .credits-table td {
+            border: 1px solid #cbd5e0;
+            padding: 3px 5px;
+            text-align: left;
+        }
+        .credits-table th {
+            background: #ebf4ff;
+            color: #1a365d;
+            font-weight: 600;
+        }
+        .credits-table .num { text-align: center; width: 52px; font-weight: 600; color: #2b6cb0; }
+        .conc-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4px 10px;
+            font-size: 7.8pt;
+        }
+        .conc-item {
+            padding: 3px 0;
+            border-bottom: 1px dotted #e2e8f0;
+        }
+        .conc-item strong { color: #2c5282; display: block; font-size: 8pt; }
+        .conc-item span { color: #555; }
+        .core-courses {
+            columns: 2;
+            column-gap: 12px;
+            font-size: 7.8pt;
+            list-style: none;
+            padding: 0;
+        }
+        .core-courses li {
+            padding: 1px 0;
+            break-inside: avoid;
+        }
+        .core-courses li::before { content: "· "; color: #2b6cb0; }
+        .highlight {
+            background: #fffbeb;
+            border-left: 3px solid #d69e2e;
+            padding: 4px 7px;
+            font-size: 8pt;
+            margin-top: 3px;
+        }
+        .footer {
+            margin-top: 6px;
+            padding-top: 5px;
+            border-top: 1px solid #e2e8f0;
+            font-size: 7.5pt;
+            color: #666;
+            text-align: center;
+        }
+        .footer a { color: #2b6cb0; text-decoration: none; }
+        .tag {
+            display: inline-block;
+            background: #ebf4ff;
+            color: #2b6cb0;
+            font-size: 7pt;
+            padding: 1px 5px;
+            border-radius: 3px;
+            margin-right: 3px;
+        }
+        @media print {
+            body { padding: 8mm 10mm; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- SECTION 1: Header -->
+<div class="header">
+    <h1>{{UNIVERSITY_ZH}} · {{PROGRAMME_TITLE_ZH}}</h1>
+    <div class="sub">{{FACULTY_EN}} · {{FACULTY_ZH}} · 专业编号 {{PROGRAMME_CODE}}</div>
+    <div class="meta">
+        <span><strong>修读年期</strong> {{DURATION}}</span>
+        <span><strong>开学</strong> {{START_DATE}}</span>
+        <span><strong>授课语言</strong> {{MEDIUM_OF_INSTRUCTION}}</span>
+        <span><strong>资助类别</strong> {{FUNDING_TYPE}}</span>
+        <span><strong>毕业学分</strong> {{TOTAL_CREDITS}}</span>
+        <span><strong>招生通道</strong> {{ADMISSION_ROUTE}}</span>
+        <!-- Add/remove meta spans as needed -->
+    </div>
+</div>
+
+<!-- SECTION 2: Programme positioning -->
+<div class="section">
+    <div class="section-title">专业定位</div>
+    <p style="font-size:8pt;color:#333;">
+        {{POSITIONING_PARAGRAPH}}
+    </p>
+</div>
+
+<!-- SECTION 3: Credit structure -->
+<div class="section">
+    <div class="section-title">学分结构（共 {{TOTAL_CREDITS}}）</div>
+    <table class="credits-table">
+        <tr>
+            <th>类别</th>
+            <th class="num">学分</th>
+            <th>说明</th>
+        </tr>
+        <!-- Repeat <tr> for each credit category -->
+        <tr>
+            <td><strong>{{CATEGORY_1_NAME}}</strong> {{CATEGORY_1_EN}}</td>
+            <td class="num">{{CATEGORY_1_UNITS}}</td>
+            <td>{{CATEGORY_1_DESC}}</td>
+        </tr>
+        <tr>
+            <td><strong>{{CATEGORY_2_NAME}}</strong> {{CATEGORY_2_EN}}</td>
+            <td class="num">{{CATEGORY_2_UNITS}}</td>
+            <td>{{CATEGORY_2_DESC}}</td>
+        </tr>
+        <!-- ... additional rows ... -->
+    </table>
+</div>
+
+<!-- SECTIONS 4 & 5: Learning path + Core courses (two columns) -->
+<div class="grid-2">
+    <div class="section">
+        <div class="section-title">{{PATH_TITLE e.g. 四年学习路径}}</div>
+        <!-- Repeat .box for each year/stage -->
+        <div class="box">
+            <h3>{{STAGE_1_TITLE}}</h3>
+            <p>{{STAGE_1_DESC}}</p>
+        </div>
+        <div class="box" style="margin-top:4px;">
+            <h3>{{STAGE_2_TITLE}}</h3>
+            <p>{{STAGE_2_DESC}}</p>
+        </div>
+        <div class="box" style="margin-top:4px;">
+            <h3>{{STAGE_3_TITLE}}</h3>
+            <p>{{STAGE_3_DESC}}</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">{{CORE_COURSES_TITLE e.g. 核心必修课程（46 units）}}</div>
+        <ul class="core-courses">
+            <!-- One <li> per course; truncate to ~15 if list too long -->
+            <li>{{COURSE_1}}（{{UNITS}} units）</li>
+            <li>{{COURSE_2}}（{{UNITS}} units）</li>
+        </ul>
+    </div>
+</div>
+
+<!-- SECTION 6: Concentrations / majors (omit or retitle if N/A) -->
+<div class="section">
+    <div class="section-title">{{CONCENTRATION_SECTION_TITLE}}</div>
+    <div class="conc-grid">
+        <!-- Add/remove .conc-item blocks; use 1 column if ≤3 items -->
+        <div class="conc-item">
+            <strong>{{N}}. {{CONC_NAME_ZH}} {{CONC_NAME_EN}}</strong>
+            <span>{{CONC_ONE_LINE_DESC}}</span>
+        </div>
+    </div>
+    <!-- Optional: second concentration / minor / double major note -->
+    <div class="highlight">
+        {{OPTIONAL_HIGHLIGHT_NOTE}}
+    </div>
+</div>
+
+<!-- Bottom row: graduation / international / admission (omit columns if N/A) -->
+<div class="grid-3">
+    <div class="section">
+        <div class="section-title">毕业要求</div>
+        <div class="box">
+            <h3>{{GRAD_REQ_1_TITLE}}</h3>
+            <p>{{GRAD_REQ_1_DESC}}</p>
+        </div>
+        <!-- Optional second .box -->
+    </div>
+    <div class="section">
+        <div class="section-title">{{COL2_TITLE e.g. 国际双学位（可选）}}</div>
+        <div class="box">
+            <h3>{{FEATURE_1_TITLE}}</h3>
+            <p>{{FEATURE_1_DESC}}</p>
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-title">{{COL3_TITLE e.g. 内地高考生入学要求}}</div>
+        <div class="box">
+            <p><span class="tag">{{TAG_1}}</span><span class="tag">{{TAG_2}}</span></p>
+            <ul style="margin-top:3px;">
+                <li>{{ADMISSION_BULLET_1}}</li>
+                <li>{{ADMISSION_BULLET_2}}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- SECTION 7: Footer -->
+<div class="footer">
+    资料来源：{{SOURCE_LABEL}}（{{ACADEMIC_YEAR}} 学年） &nbsp;|&nbsp;
+    <a href="{{URL_1}}">{{LINK_1_LABEL}}</a> ·
+    <a href="{{URL_2}}">{{LINK_2_LABEL}}</a> &nbsp;|&nbsp;
+    咨询：{{CONTACT_EMAIL}} · {{CONTACT_PHONE}} &nbsp;|&nbsp; 整理：{{COMPILE_DATE}}
+</div>
+
+</body>
+</html>

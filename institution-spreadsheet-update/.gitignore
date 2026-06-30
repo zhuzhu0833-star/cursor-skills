@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.env
+*_updated_*.csv
+*_updated_*.xlsx
+*_update_report_*.pdf
+*_changes_*.json
+*_report_manifest_*.json
+test_changes.json

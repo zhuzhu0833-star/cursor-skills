@@ -1,0 +1,1794 @@
+[
+  {
+    "school_id": "williams",
+    "school_name_en": "Williams College",
+    "school_name_zh": "威廉姆斯学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-15"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "amherst",
+    "school_name_en": "Amherst College",
+    "school_name_zh": "阿默斯特学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100(25)"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "swarthmore",
+    "school_name_en": "Swarthmore College",
+    "school_name_zh": "斯沃斯莫尔学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "usna",
+    "school_name_en": "United States Naval Academy",
+    "school_name_zh": "美国海军学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "bowdoin",
+    "school_name_en": "Bowdoin College",
+    "school_name_zh": "鲍登学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-15"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "pomona",
+    "school_name_en": "Pomona College",
+    "school_name_zh": "波莫纳学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-08"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "wellesley",
+    "school_name_en": "Wellesley College",
+    "school_name_zh": "韦尔斯利学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "carleton",
+    "school_name_en": "Carleton College",
+    "school_name_zh": "卡尔顿学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "claremont-mckenna",
+    "school_name_en": "Claremont McKenna College",
+    "school_name_zh": "克莱蒙特·麦肯纳学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from CMC admissions"
+      }
+    ]
+  },
+  {
+    "school_id": "middlebury",
+    "school_name_en": "Middlebury College",
+    "school_name_zh": "明德学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17"
+      }
+    ]
+  },
+  {
+    "school_id": "haverford",
+    "school_name_en": "Haverford College",
+    "school_name_zh": "哈弗福德学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "vassar",
+    "school_name_en": "Vassar College",
+    "school_name_zh": "瓦萨学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "colby",
+    "school_name_en": "Colby College",
+    "school_name_zh": "科尔比学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "未写明"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "wesleyan",
+    "school_name_en": "Wesleyan University",
+    "school_name_zh": "卫斯理大学",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17"
+      }
+    ]
+  },
+  {
+    "school_id": "davidson",
+    "school_name_en": "Davidson College",
+    "school_name_zh": "戴维森学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "grinnell",
+    "school_name_en": "Grinnell College",
+    "school_name_zh": "格林内尔学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "未写明"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "hamilton",
+    "school_name_en": "Hamilton College",
+    "school_name_zh": "汉密尔顿学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "bates",
+    "school_name_en": "Bates College",
+    "school_name_zh": "贝茨学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "未写明"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "colgate",
+    "school_name_en": "Colgate University",
+    "school_name_zh": "科尔盖特大学",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "未写明"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "smith",
+    "school_name_en": "Smith College",
+    "school_name_zh": "史密斯学院",
+    "preset_group": "lac_top20",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "未写明"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "stanford",
+    "school_name_en": "Stanford University",
+    "school_name_zh": "斯坦福大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "notes_zh",
+        "label_zh": "备注 (ZH)",
+        "old": "不要求英语成绩，可自愿提交；2026入学起 SAT/ACT 必填",
+        "new": "2025申请起 SAT/ACT 必填"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "https://admission.stanford.edu/apply/international/",
+        "new": "https://admission.stanford.edu/apply/first-year/testing.html"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "TOEFL optional per official site; SAT/ACT required Fall 2026+",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "princeton",
+    "school_name_en": "Princeton University",
+    "school_name_zh": "普林斯顿大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-01"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "mit",
+    "school_name_en": "Massachusetts Institute of Technology",
+    "school_name_zh": "麻省理工学院",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "90"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "harvard",
+    "school_name_en": "Harvard University",
+    "school_name_zh": "哈佛大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-01"
+      },
+      {
+        "field": "notes_zh",
+        "label_zh": "备注 (ZH)",
+        "old": "",
+        "new": "2025-26起 SAT/ACT 必填"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://college.harvard.edu/admissions/apply/application-requirements"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "yale",
+    "school_name_en": "Yale University",
+    "school_name_zh": "耶鲁大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100 (2026/1/21前) 或 5+ (2026/1/21后新标)"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "notes_zh",
+        "label_zh": "备注 (ZH)",
+        "old": "",
+        "new": "2026年5月起恢复仅 SAT/ACT 必填"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.yale.edu/standardized-testing"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "upenn",
+    "school_name_en": "University of Pennsylvania",
+    "school_name_zh": "宾夕法尼亚大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "caltech",
+    "school_name_en": "California Institute of Technology",
+    "school_name_zh": "加州理工学院",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-03"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "duke",
+    "school_name_en": "Duke University",
+    "school_name_zh": "杜克大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-02"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-04"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.duke.edu/apply/"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "brown",
+    "school_name_en": "Brown University",
+    "school_name_zh": "布朗大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-05"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admission.brown.edu/first-year/application-checklist"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "jhu",
+    "school_name_en": "Johns Hopkins University",
+    "school_name_zh": "约翰霍普金斯大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100 \nwith preferred sub-scores of 26 (Reading), 26 (Listening), 22 (Writing), and 25 (Speaking)"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "northwestern",
+    "school_name_en": "Northwestern University",
+    "school_name_zh": "西北大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "columbia",
+    "school_name_en": "Columbia University",
+    "school_name_zh": "哥伦比亚大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "105"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "11.01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "1.01"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "cornell",
+    "school_name_en": "Cornell University",
+    "school_name_zh": "康奈尔大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "notes_zh",
+        "label_zh": "备注 (ZH)",
+        "old": "",
+        "new": "Fall 2026 起 SAT/ACT 必填"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.cornell.edu/policies/standardized-testing-policy"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "uchicago",
+    "school_name_en": "University of Chicago",
+    "school_name_zh": "芝加哥大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "2023-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "ucb",
+    "school_name_en": "University of California-Berkeley",
+    "school_name_zh": "加州大学伯克利分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "not_considered",
+        "new": "test-free"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "2025-11-30",
+        "new": "11.30"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/",
+        "new": "https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/exam-requirement.html"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "ucla",
+    "school_name_en": "University of California-Los Angeles",
+    "school_name_zh": "加州大学洛杉矶分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "not_considered",
+        "new": "test-free"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "100",
+        "new": "100（22）"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "2025-11-30",
+        "new": "11月30"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "rice",
+    "school_name_en": "Rice University",
+    "school_name_zh": "莱斯大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-04"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "dartmouth",
+    "school_name_en": "Dartmouth College",
+    "school_name_zh": "达特茅斯学院",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-02"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.dartmouth.edu/apply/testing-policy"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "vanderbilt",
+    "school_name_en": "Vanderbilt University",
+    "school_name_zh": "范德堡大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-01"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "notre-dame",
+    "school_name_en": "University of Notre Dame",
+    "school_name_zh": "圣母大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-01"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "umich",
+    "school_name_en": "University of Michigan-Ann Arbor",
+    "school_name_zh": "密歇根大学安娜堡分校",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100 \nrange with section scores 23+ in listening & reading and 21+ in speaking and writing."
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "11月1号"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "12月1\n（Deadline for School of Music, Theatre & Dance Students Only）\n2月1（其他专业）"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "georgetown",
+    "school_name_en": "Georgetown University",
+    "school_name_zh": "乔治城大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "Georgetown recommends, but does not require, results from an English language proficiency test for students who attend a school where English is not the language of instruction."
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "1月10"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "unc",
+    "school_name_en": "University of North Carolina at Chapel Hill",
+    "school_name_zh": "北卡罗来纳大学教堂山分校",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "2024-10-15"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-15"
+      },
+      {
+        "field": "notes_zh",
+        "label_zh": "备注 (ZH)",
+        "old": "",
+        "new": "2026-27 cycle test optional"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "cmu",
+    "school_name_en": "Carnegie Mellon University",
+    "school_name_zh": "卡内基梅隆大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-flexible"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "2025-11-01"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2026-01-03"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://www.cmu.edu/admission/admission/standardized-testing"
+      }
+    ]
+  },
+  {
+    "school_id": "uva",
+    "school_name_en": "University of Virginia",
+    "school_name_zh": "弗吉尼亚大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "11月1号"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "11月1号"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "1月5号"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "usc",
+    "school_name_en": "University of Southern California",
+    "school_name_zh": "南加州大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100（20）"
+      },
+      {
+        "field": "ea_deadline",
+        "label_zh": "EA 截止",
+        "old": "",
+        "new": "11月1号"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "1月15（其他专业）"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "nyu",
+    "school_name_en": "New York University",
+    "school_name_zh": "纽约大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "optional"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "100"
+      },
+      {
+        "field": "ed_deadline",
+        "label_zh": "ED 截止",
+        "old": "",
+        "new": "11月1号"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "1月5号"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "ucsd",
+    "school_name_en": "University of California-San Diego",
+    "school_name_zh": "加州大学圣地亚哥分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "not_considered",
+        "new": "test-free"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "83",
+        "new": "83\nhttps://admissions.ucsd.edu/international/index.html"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "2025-11-30",
+        "new": "11.30"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "uf",
+    "school_name_en": "University of Florida",
+    "school_name_zh": "佛罗里达大学",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "encouraged but not required\nhttps://admissions.ufl.edu/apply/freshman/international"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "11.1 (Priority) / Test Scores 12.1\n3.1 (final, space-based)"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "ut-austin",
+    "school_name_en": "University of Texas at Austin",
+    "school_name_zh": "德克萨斯大学奥斯汀分校",
+    "preset_group": "top30",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "required"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2025-12-01"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admissions.utexas.edu/apply/freshman"
+      }
+    ]
+  },
+  {
+    "school_id": "ucd",
+    "school_name_en": "University of California-Davis",
+    "school_name_zh": "加州大学戴维斯分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "toefl_min_ibt",
+        "label_zh": "TOEFL 最低分",
+        "old": "",
+        "new": "80\nhttps://admission.universityofcalifornia.edu/admission-requirements/international-applicants/english-language-proficiency-toefl-ielts.html"
+      },
+      {
+        "field": "rd_deadline",
+        "label_zh": "RD 截止",
+        "old": "",
+        "new": "2023-11-30"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "Verified 2026-06-17 from official website / 2026美本选校表"
+      }
+    ]
+  },
+  {
+    "school_id": "uci",
+    "school_name_en": "University of California-Irvine",
+    "school_name_zh": "加州大学尔湾分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "source_url",
+        "label_zh": "来源 URL",
+        "old": "",
+        "new": "https://admission.universityofcalifornia.edu/"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "UC system test-free"
+      }
+    ]
+  },
+  {
+    "school_id": "ucsb",
+    "school_name_en": "University of California-Santa Barbara",
+    "school_name_zh": "加州大学圣塔芭芭拉分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "UC system test-free"
+      }
+    ]
+  },
+  {
+    "school_id": "ucsc",
+    "school_name_en": "University of California-Santa Cruz",
+    "school_name_zh": "加州大学圣克鲁兹分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "UC system test-free"
+      }
+    ]
+  },
+  {
+    "school_id": "ucr",
+    "school_name_en": "University of California-Riverside",
+    "school_name_zh": "加州大学河滨分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "UC system test-free"
+      }
+    ]
+  },
+  {
+    "school_id": "ucm",
+    "school_name_en": "University of California-Merced",
+    "school_name_zh": "加州大学默塞德分校",
+    "preset_group": "uc_system",
+    "changes": [
+      {
+        "field": "test_policy",
+        "label_zh": "标化政策",
+        "old": "",
+        "new": "test-free"
+      },
+      {
+        "field": "source_notes",
+        "label_zh": "来源说明",
+        "old": "",
+        "new": "UC system test-free"
+      }
+    ]
+  }
+]
