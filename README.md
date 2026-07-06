@@ -6,6 +6,7 @@
 
 | 目录 | 用途 |
 |------|------|
+| [application-case-closing](application-case-closing/) | 申请季结案：祝福卡片 + 录取成果总结 PNG、微信群文案 |
 | [blader-humanizer](blader-humanizer/) | 文本去 AI 化 / humanizer |
 | [frontend-slides](frontend-slides/) | 前端幻灯片生成（upstream: zarazhangrui/frontend-slides） |
 | [institution-spreadsheet-update](institution-spreadsheet-update/) | 院校表格更新、标红变更、PDF 报告 |

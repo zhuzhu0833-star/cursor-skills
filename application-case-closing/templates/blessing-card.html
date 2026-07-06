@@ -1,0 +1,190 @@
+<!-- Template: application-case-closing. Copy to 学生/结案/ and replace student/school/content. See reference.md -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, initial-scale=1.0">
+    <title>张硕 · 祝福卡片</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body {
+            width: 1080px;
+            height: 1920px;
+            overflow: hidden;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        body {
+            font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+            color: #fff;
+            position: relative;
+        }
+        .bg {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg,
+                rgba(0, 48, 135, 0.92) 0%,
+                rgba(0, 48, 135, 0.85) 45%,
+                rgba(0, 32, 96, 0.95) 100%);
+        }
+        .frame {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            height: 100%;
+            padding: 72px 64px 64px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .top-bar {
+            width: 120px;
+            height: 4px;
+            background: linear-gradient(90deg, transparent, #C2A569, transparent);
+            margin-bottom: 48px;
+        }
+        .duke-logo-area {
+            text-align: center;
+            margin-bottom: 56px;
+        }
+        .duke-en {
+            font-size: 42px;
+            font-weight: 700;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            color: #fff;
+            text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+        }
+        .duke-cn {
+            font-size: 28px;
+            font-weight: 500;
+            color: #C2A569;
+            margin-top: 12px;
+            letter-spacing: 8px;
+        }
+        .greeting {
+            font-size: 36px;
+            font-weight: 700;
+            letter-spacing: 4px;
+            margin-bottom: 48px;
+            text-align: center;
+        }
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-width: 900px;
+        }
+        .content p {
+            font-size: 30px;
+            line-height: 2;
+            text-align: center;
+            margin-bottom: 28px;
+            font-weight: 400;
+            text-shadow: 0 1px 8px rgba(0,0,0,0.25);
+        }
+        .content p.highlight {
+            font-size: 32px;
+            font-weight: 600;
+        }
+        .content .duke-name {
+            color: #C2A569;
+            font-weight: 700;
+        }
+        .program-box {
+            margin-top: 16px;
+            padding: 28px 36px;
+            border: 1px solid rgba(194, 165, 105, 0.45);
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.08);
+        }
+        .program-box .label {
+            font-size: 22px;
+            color: rgba(255,255,255,0.75);
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+        .program-box .program {
+            font-size: 26px;
+            line-height: 1.6;
+            color: #fff;
+            font-weight: 500;
+        }
+        .footer {
+            text-align: center;
+            margin-top: auto;
+            padding-top: 32px;
+            width: 100%;
+        }
+        .footer .wish {
+            font-size: 28px;
+            color: rgba(255,255,255,0.95);
+            letter-spacing: 2px;
+            margin-bottom: 28px;
+        }
+        .footer .closing {
+            font-size: 26px;
+            line-height: 1.8;
+            color: rgba(255,255,255,0.85);
+            margin-bottom: 36px;
+        }
+        .brand-bar {
+            display: inline-flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 16px;
+            padding: 24px 48px 20px;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+        }
+        .brand-bar img {
+            height: 64px;
+            width: auto;
+            display: block;
+        }
+        .brand-name {
+            font-size: 22px;
+            color: #1a2a5a;
+            letter-spacing: 2px;
+            font-weight: 500;
+        }
+        .footer .term {
+            font-size: 20px;
+            color: rgba(255,255,255,0.65);
+            margin-top: 20px;
+            letter-spacing: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="frame">
+        <div class="top-bar"></div>
+        <div class="duke-logo-area">
+            <div class="duke-en">Duke University</div>
+            <div class="duke-cn">杜克大学</div>
+        </div>
+        <div class="greeting">致 张硕同学</div>
+        <div class="content">
+            <p>不知不觉，我们已同行一年半。</p>
+            <p>从疑惑与焦灼，到坚定与欣喜——小硕的超强执行力和清晰目标感，让我们对他走到今天从未有过一丝怀疑。</p>
+            <p class="highlight">明天，你将奔赴 <span class="duke-name">杜克大学</span>，开启新篇章。</p>
+            <div class="program-box">
+                <div class="label">2026 Fall · 入读项目</div>
+                <div class="program">Master of Quantitative Management:<br>Business Analytics</div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="wish">衷心祝愿：学业顺利，生活充实，前程似锦</div>
+            <p class="closing">申请这段路告一段落，陪伴不会。<br>到了美国，记得报个平安。</p>
+            <div class="brand-bar">
+                <img src="横版logo png格式.png" alt="TransCend 传胜教育">
+                <div class="brand-name">成都传胜留学 TC Edu</div>
+            </div>
+            <div class="term">2026 · 7</div>
+        </div>
+    </div>
+</body>
+</html>
